@@ -1,0 +1,80 @@
+body {
+  background-image: url('/image/graph.jpeg');
+  background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+padding-bottom: 10%;
+}
+
+
+h1{
+  text-align: center;
+  padding-top: 1%;
+  font-family: 'Anton', sans-serif;
+  font-size: 6rem;
+}
+
+h2{
+  text-align: center;
+  padding-top: 5%;
+  font-family: 'Anton', sans-serif;
+  font-size: 4rem;
+
+}
+
+.homeButton{
+  padding: 2%;
+  width: 50px;
+}
+
+
+.container{
+
+  padding: 50px 72px 0 72px;
+  margin: 0 150px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.row{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.card{
+  width: 800px; !important
+  height: 800px; !important
+}
+
+.confirmedCard{
+  margin: 0 15px;
+  position: static;
+
+
+}
+
+.recoveredCard{
+  margin: 0 15px;
+  position: static;
+
+
+
+}
+
+.deathsCard{
+  margin: 0 15px;
+  position: static;
+
+}
+
+.searchBar{
+  padding-top: 5%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
